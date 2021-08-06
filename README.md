@@ -2,7 +2,7 @@
   <a href="https://github.com/lucieneferri">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucieneferri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucieneferri&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img height="180em" src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black/>
+  <img height="20em" src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black/>
     
 </div>
   
